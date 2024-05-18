@@ -154,7 +154,7 @@ The palette below is extracted from the [neovim source code](https://github.com/
 	</tr>
 </table>
 
-# Contribution
+# Contribute
 
 Feel free to make a PR and add your own ports
 
