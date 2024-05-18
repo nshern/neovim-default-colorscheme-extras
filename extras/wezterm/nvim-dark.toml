@@ -1,0 +1,76 @@
+[colors]
+foreground = "#E0E2EA"
+background = "#14161b"
+cursor_fg = "#14161b"
+cursor_bg = "#E0E2EA"
+cursor_border = "#14161b"
+selection_bg = "#4f5258"
+
+ansi = [
+	"#2c2e33",
+	"#E5ADB9",
+	"#A2DFC0",
+	"#E3CA85",
+	"#95C5E5",
+	"#E5B6E6",
+	"#7EDFDE",
+	"#C4C6CD",
+]
+brights = [
+	"#4f5258",
+	"#FFC0B9",
+	"#B4F6C0",
+	"#FCE094",
+	"#A6DBFF",
+	"#FFCAFF",
+	"#8CF8F7",
+	"#9b9ea4",
+]
+
+[colors.tab_bar]
+background = '#14161b'
+inactive_tab_edge = '#14161b'
+
+[colors.tab_bar.active_tab]
+fg_color = '#14161b'
+bg_color = '#7EDFDE'
+intensity = 'Bold'
+italic = false
+strikethrough = false
+underline = 'None'
+
+[colors.tab_bar.inactive_tab]
+bg_color = '#14161b'
+fg_color = '#C4C6CD'
+intensity = 'Normal'
+italic = false
+strikethrough = false
+underline = 'None'
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = '#7EDFDE'
+fg_color = '#14161b'
+intensity = 'Bold'
+italic = false
+strikethrough = false
+underline = 'None'
+
+[colors.tab_bar.new_tab]
+bg_color = '#14161b'
+fg_color = '#c4c6cd'
+intensity = 'Normal'
+italic = false
+strikethrough = false
+underline = 'None'
+
+[colors.tab_bar.new_tab_hover]
+bg_color = '#14161b'
+fg_color = '#c4c6cd'
+intensity = 'Normal'
+italic = true
+strikethrough = false
+underline = 'None'
+
+[metadata]
+aliases = []
+name = 'nvim dark'
