@@ -4,7 +4,7 @@ foreground = "#14161b"
 cursor_fg = "#E0E2EA"
 cursor_bg = "#14161b"
 cursor_border = "#E0E2EA"
-selection_bg = "#4f5258"
+selection_bg = "#2c2e33"
 
 ansi = [
 	"#C4C6CD",

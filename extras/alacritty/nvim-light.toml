@@ -34,7 +34,7 @@ background = "#007373"
 
 [colors.selection]
 text = "#14161b"
-background = "#4f5258"
+background = "#2c2e33"
 
 [colors.normal]
 black = "#C4C6CD"
