@@ -158,4 +158,6 @@ The palette below is extracted from the [neovim source code](https://github.com/
 
 Feel free to make a PR and add your own ports
 
-#
+# Acknowledgements
+
+- Huge thanks to [Evgeni Chasnovski](https://github.com/echasnovski) for creating the theme.
