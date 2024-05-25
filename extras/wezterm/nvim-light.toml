@@ -33,7 +33,7 @@ inactive_tab_edge = '#E0E2EA'
 
 [colors.tab_bar.active_tab]
 fg_color = '#E0E2EA'
-bg_color = '#007373'
+bg_color = '#14161b'
 intensity = 'Bold'
 italic = false
 strikethrough = false
@@ -48,8 +48,8 @@ strikethrough = false
 underline = 'None'
 
 [colors.tab_bar.inactive_tab_hover]
-bg_color = '#007373'
-fg_color = '#4f5258'
+bg_color = '#14161b'
+fg_color = '#C4c6cd'
 intensity = 'Bold'
 italic = false
 strikethrough = false
