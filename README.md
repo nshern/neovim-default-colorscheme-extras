@@ -34,34 +34,6 @@ The palette below is extracted from the [neovim source code](https://github.com/
 		<td><code>RGB_(0x00,0x55,0x23)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/NvimDarkGrey1.png" width="23"/></td>
-		<td>NvimDarkGrey1</td>
-		<td><code>#07080D</code></td>
-		<td><code>rgb(7,8,13)</code></td>
-		<td><code>RGB_(0x07,0x08,0x0d)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/palette/circles/NvimDarkGrey2.png" width="23"/></td>
-		<td>NvimDarkGrey2</td>
-		<td><code>#14161B</code></td>
-		<td><code>rgb(20,22,27)</code></td>
-		<td><code>RGB_(0x2c,0x2e,0x33)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/palette/circles/NvimDarkGrey3.png" width="23"/></td>
-		<td>NvimDarkGrey3</td>
-		<td><code>#2c2e33</code></td>
-		<td><code>rgb(44,46,51)</code></td>
-		<td><code>RGB_(0x2c,0x2e,0x33)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/palette/circles/NvimDarkGrey4.png" width="23"/></td>
-		<td>NvimDarkGrey4</td>
-		<td><code>#4f5258</code></td>
-		<td><code>rgb(79,82,88)</code></td>
-		<td><code>RGB_(0x4f,0x52,0x58)</code></td>
-	</tr>
-	<tr>
 		<td><img src="assets/palette/circles/NvimDarkMagenta.png" width="23"/></td>
 		<td>NvimDarkMagenta</td>
 		<td><code>#470045</code></td>
@@ -104,6 +76,55 @@ The palette below is extracted from the [neovim source code](https://github.com/
 		<td><code>RGB_(0xb3, 0xf6, 0xc0)</code></td>
 	</tr>
 	<tr>
+		<td><img src="assets/palette/circles/NvimLightMagenta.png" width="23"/></td>
+		<td>NvimLightMagenta</td>
+		<td><code>#FFCAFF</code></td>
+		<td><code>rgb(255, 202, 255)</code></td>
+		<td><code>RGB_(0xff, 0xca, 0xff)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/NvimLightRed.png" width="23"/></td>
+		<td>NvimLightRed</td>
+		<td><code>#FFC0B9</code></td>
+		<td><code>rgb(255, 192, 185)</code></td>
+		<td><code>RGB_(0xff, 0xc0, 0xb9)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/NvimLightYellow.png" width="23"/></td>
+		<td>NvimLightYellow</td>
+		<td><code>#FCE094</code></td>
+		<td><code>rgb(252, 224, 148)</code></td>
+		<td><code>RGB_(0xfc, 0xe0, 0x94)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/NvimDarkGrey1.png" width="23"/></td>
+		<td>NvimDarkGrey1</td>
+		<td><code>#07080D</code></td>
+		<td><code>rgb(7,8,13)</code></td>
+		<td><code>RGB_(0x07,0x08,0x0d)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/NvimDarkGrey2.png" width="23"/></td>
+		<td>NvimDarkGrey2</td>
+		<td><code>#14161B</code></td>
+		<td><code>rgb(20,22,27)</code></td>
+		<td><code>RGB_(0x2c,0x2e,0x33)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/NvimDarkGrey3.png" width="23"/></td>
+		<td>NvimDarkGrey3</td>
+		<td><code>#2c2e33</code></td>
+		<td><code>rgb(44,46,51)</code></td>
+		<td><code>RGB_(0x2c,0x2e,0x33)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/NvimDarkGrey4.png" width="23"/></td>
+		<td>NvimDarkGrey4</td>
+		<td><code>#4f5258</code></td>
+		<td><code>rgb(79,82,88)</code></td>
+		<td><code>RGB_(0x4f,0x52,0x58)</code></td>
+	</tr>
+	<tr>
 		<td><img src="assets/palette/circles/NvimLightGrey1.png" width="23"/></td>
 		<td>NvimLightGrey1</td>
 		<td><code>#EEF1F8</code></td>
@@ -130,27 +151,6 @@ The palette below is extracted from the [neovim source code](https://github.com/
 		<td><code>#9b9ea4</code></td>
 		<td><code>rgb(155, 158, 164)</code></td>
 		<td><code>RGB_(0x9b, 0x9e, 0xa4)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/palette/circles/NvimLightMagenta.png" width="23"/></td>
-		<td>NvimLightMagenta</td>
-		<td><code>#FFCAFF</code></td>
-		<td><code>rgb(255, 202, 255)</code></td>
-		<td><code>RGB_(0xff, 0xca, 0xff)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/palette/circles/NvimLightRed.png" width="23"/></td>
-		<td>NvimLightRed</td>
-		<td><code>#FFC0B9</code></td>
-		<td><code>rgb(255, 192, 185)</code></td>
-		<td><code>RGB_(0xff, 0xc0, 0xb9)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/palette/circles/NvimLightYellow.png" width="23"/></td>
-		<td>NvimLightYellow</td>
-		<td><code>#FCE094</code></td>
-		<td><code>rgb(252, 224, 148)</code></td>
-		<td><code>RGB_(0xfc, 0xe0, 0x94)</code></td>
 	</tr>
 </table>
 
