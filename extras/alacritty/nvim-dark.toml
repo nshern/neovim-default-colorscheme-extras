@@ -14,11 +14,11 @@ cursor = "#E0E2EA"
 
 [colors.search.matches]
 foreground = "#14161b"
-background = "#4f5258"
+background = "#6b5300"
 
 [colors.search.focused_match]
 foreground = "#14161b"
-background = "#7EDFDE"
+background = "#fce094"
 
 [colors.footer_bar]
 foreground = "#14161b"
